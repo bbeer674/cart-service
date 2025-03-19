@@ -8,3 +8,4 @@
 - Freebie (Buy A get B free)
 
 ## Run Project
+npm run start
